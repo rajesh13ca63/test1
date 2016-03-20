@@ -1,4 +1,5 @@
-//this is the Acl class which is used to control the user and admin resources
+//this is the Acl class which is used to control the user and admin resourceshe
+this is the changes in ACL 
  <?php
 require 'dbinfo.php';
 class ACL {
