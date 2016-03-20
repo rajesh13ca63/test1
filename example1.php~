@@ -1,4 +1,3 @@
-//this is the Acl class which is used to control the user and admin resources
  <?php
 require 'dbinfo.php';
 class ACL {
